@@ -1,0 +1,23 @@
+[33mcommit d2ab37157909b77ad4c3d15ae55addd21437bda7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ochkasov Mykhailo <misha.ochkasov@gmail.com>
+Date:   Thu Feb 17 14:02:22 2022 +0200
+
+    deleted my first file, my second file renamed to my first file
+
+[33mcommit 59dff0aa7f4dd4193bcba495349cee9c20d78d5f[m
+Author: Ochkasov Mykhailo <misha.ochkasov@gmail.com>
+Date:   Thu Feb 17 13:54:21 2022 +0200
+
+    .gitignore added
+
+[33mcommit 78888799396f1f033a70ea3d9e3176ca24ce21b4[m
+Author: Ochkasov Mykhailo <misha.ochkasov@gmail.com>
+Date:   Thu Feb 3 16:08:21 2022 +0200
+
+    Second commit
+
+[33mcommit cec0ee098e4710edee9577210eee9bde513342f5[m
+Author: Ochkasov Mykhailo <misha.ochkasov@gmail.com>
+Date:   Thu Feb 3 16:05:28 2022 +0200
+
+    Firtst commit
